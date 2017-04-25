@@ -154,7 +154,7 @@ function next()
 
 
 
-setTimeout(function(){next();console.log('>>> Started.');},2222),true;)
+setTimeout(function(){next();console.log('>>> Started.');},2222),true;
 
 
 
