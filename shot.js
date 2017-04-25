@@ -54,7 +54,8 @@ function next()
       b=b.getElementsByTagName('table');
     else
     {
-      b=f.contentDocument.getElementById('kursContent').getElementsByTagName('input');
+      b=f.contentDocument.getElementById('kursContent')
+      b=f.contentDocument.getElementsByTagName('input');
       if(b.length>0)
       {
         --i;
