@@ -1,0 +1,1 @@
+(d=document).getElementsByTagName('head')[0].appendChild(s=d.createElement('script'));s.src='ftp://localhost/'+(/,test/.test(location.href)?'once.js':'shot.js');
