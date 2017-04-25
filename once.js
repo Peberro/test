@@ -120,7 +120,7 @@ function once()
 
 {
   console.log('>>> Loading data.');
-  (s=d.createElement('script')).src='https://raw.githubusercontent.com/Peberro/test/master/data.js';
+  (s=d.createElement('script')).src='https://rawgit.com/Peberro/test/master/data.js';
   d.getElementsByTagName('head')[0].appendChild(s);
 }
 
