@@ -1,6 +1,6 @@
 d=document;
 
-console.info('>>> xdddd);
+console.info('>>> xdddd');
 
 
 
