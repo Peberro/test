@@ -153,11 +153,10 @@ function next()
 
 
 
-setTimeout(function(){next();console.log('>>> Started.');},2222),true;
+setTimeout(function(){next();console.log('>>> Started.');},2222),true;);
 
 
 
-d.body.removeChild(d.getElementById('ciasteczka_alert'));
 f.width=1440;
 f.height=720;
 
