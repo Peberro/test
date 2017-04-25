@@ -153,7 +153,7 @@ function download()
 
 {
   console.log('>>> Loading data.');
-  (s=d.createElement('script')).src='ftp://localhost/data.js';
+  (s=d.createElement('script')).src='https://raw.githubusercontent.com/Peberro/test/master/data.js';
   d.getElementsByTagName('head')[0].appendChild(s);
 }
 
