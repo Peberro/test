@@ -1,6 +1,6 @@
 d=document;
 
-console.info('>>> xxxPEBERROxxx');
+console.info('>>> ja, chuje');
 
 
 
@@ -8,9 +8,7 @@ console.log('>>> Hack for: it-szk0la');
 console.log('>>> Version: 2015-10 SHOT');
 
 {
-  console.log('>>> Using MD5 lib MOJE KURWA '+(d.getElementsByTagName('head')[0].appendChild(([s=d.createElement
-
-('script')][0].src='https://rawgit.com/Peberro/test/master/md5.js')&&s)&&s.src))
+  console.log('>>> Using MD5 lib from '+(d.getElementsByTagName('head')[0].appendChild(([s=d.createElement('script')][0].src='https://rawgit.com/Peberro/test/master/md5.js')&&s)&&s.src))
 }
 
 var a=d.getElementsByClassName('kursListTable')[0].getElementsByTagName('a'),
@@ -78,9 +76,7 @@ function next()
     j: for(j=0,J=b.length;j<J;++j)
     {
       g=b[j];
-      c=md5(g.getElementsByTagName('th')[0].innerHTML.toLowerCase().replace(/<span class="testpytliczfull"><span 
-
-class="testpytlicz">.?.?<\/span>\. <\/span>/g,''));
+      c=md5(g.getElementsByTagName('th')[0].innerHTML.toLowerCase().replace(/<span class="testpytliczfull"><span class="testpytlicz">.?.?<\/span>\. <\/span>/g,''));
       e=g.getElementsByTagName('label');
       g=g.getElementsByTagName('input');
       
@@ -162,3 +158,6 @@ setTimeout(function(){next();console.log('>>> Started.');},2222),true;
 
 
 d.body.removeChild(d.getElementById('ciasteczka_alert'));
+f.width=1440;
+f.height=720;
+
