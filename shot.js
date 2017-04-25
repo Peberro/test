@@ -1,6 +1,6 @@
 d=document;
 
-console.info('>>> \/\/PsychoX\/\/');
+console.info('>>> xdddd);
 
 
 
@@ -8,7 +8,7 @@ console.log('>>> Hack for: it-szk0la');
 console.log('>>> Version: 2015-10 SHOT');
 
 {
-  console.log('>>> Using MD5 lib from '+(d.getElementsByTagName('head')[0].appendChild(([s=d.createElement('script')][0].src='http://www.myersdaily.org/joseph/javascript/md5.js')&&s)&&s.src))
+  console.log('>>> Using MD5 lib from '+(d.getElementsByTagName('head')[0].appendChild(([s=d.createElement('script')][0].src='https://rawgit.com/Peberro/test/master/md5.js')&&s)&&s.src))
 }
 
 var a=d.getElementsByClassName('kursListTable')[0].getElementsByTagName('a'),
@@ -147,7 +147,7 @@ function next()
 
 {
   console.log('>>> Loading data.');
-  (s=d.createElement('script')).src='ftp://localhost/data.js';
+  (s=d.createElement('script')).src='https://rawgit.com/Peberro/test/master/data.js';
   d.getElementsByTagName('head')[0].appendChild(s);
 }
 
