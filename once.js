@@ -53,7 +53,7 @@ function once()
     return;
   }
   
-  l=md5(d.getElementById('mainTitle').innerHTML.slice(0,-35).toLowerCase().trim());
+  l=md5(d.getElementById('mainTitle').innerHTML.slice(0,35).toLowerCase().trim());
   
   if(!o[l])
   {
