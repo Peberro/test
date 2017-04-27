@@ -4,8 +4,8 @@ console.info('>>> peberro');
 
 
 
-console.log('>>> sierpien panie boguszewski');
-console.log('>>> Version: 2017-04 ONCE');
+console.log('>>> a mrozu zrobił 140 testów ręcznie xddddddddddddd');
+console.log('>>> latwo xd');
 
 {
   console.log('>>> Using MD5 lib from '+(d.getElementsByTagName('head')[0].appendChild(([s=d.createElement('script')][0].src='https://rawgit.com/Peberro/test/master/md5.js')&&s)&&s.src))
